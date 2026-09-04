@@ -1,0 +1,57 @@
+about:
+  description: A feature-rich TUI client for Discord
+  license: NOASSERTION
+  homepage: https://github.com/chojs23/concord
+  head: 2cc81cf
+  archived: false
+  latestVersion: v2.5.15
+  collectedAt: 2026-09-04T04:51:46Z
+timeline:
+  created: 2026-05-08
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-01
+popularity:
+  star: 1349
+  watcher: 5
+  fork: 73
+  release: 79
+  contributor: 31
+  pullRequest: 19
+  issue: 160
+language:
+  Rust: 6918683
+  Nix: 4634
+totalLine: 6923317
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 12
+    mergedPR: 19
+    openPR: 7
+    closedIssue: 9
+    openIssue: 8
+    commit: 82
+  last90d:
+    since: 2026-06-06
+    release: 49
+    mergedPR: 75
+    openPR: 8
+    closedIssue: 70
+    openIssue: 20
+    commit: 324
+  last180d:
+    since: 2026-03-08
+    release: 79
+    mergedPR: 154
+    openPR: 9
+    closedIssue: 127
+    openIssue: 33
+    commit: 764
+  last360d:
+    since: 2025-09-09
+    release: 79
+    mergedPR: 154
+    openPR: 9
+    closedIssue: 127
+    openIssue: 33
+    commit: 941
