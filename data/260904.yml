@@ -7,13 +7,13 @@ about:
   head: fdc4912
   archived: false
   latestVersion: v2.5.16
-  collectedAt: 2026-09-04T19:51:37Z
+  collectedAt: 2026-09-04T20:51:22Z
 timeline:
   created: 2026-05-08
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 1377
+  star: 1379
   watcher: 5
   fork: 73
   release: 80
@@ -81,5 +81,38 @@ total:
   openIssue: 33
   commit: 947
 ---
+path: /home/runner/.x-repo/github.com/chojs23/concord
+collectedAt: 2026-09-04T20:51:25Z
+loc:
+  Rust:
+    code: 182453
+    comments: 1457
+    blanks: 16084
+    files: 372
+  Toml:
+    code: 391
+    comments: 19
+    blanks: 17
+    files: 3
+  Nix:
+    code: 125
+    comments: 17
+    blanks: 20
+    files: 2
+  Json:
+    code: 72
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2059
+    blanks: 855
+    files: 5
+total:
+  code: 183587
+  comments: 5238
+  blanks: 17186
+  files: 383
 ---
 
