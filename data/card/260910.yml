@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.5.18"
   latestRelease: "v2.5.18"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:28:17Z
+  collectedAt: 2026-09-10T21:33:57Z
 timeline:
   created: 2026-05-08
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 1466
+  star: 1467
   watcher: 5
   fork: 77
   release: 82
   contributor: 33
   pullRequest: 177
-  issue: 165
+  issue: 166
 language:
   Rust: 7129286
   Nix: 4634
@@ -33,7 +33,7 @@ recent:
     mergedPR: 24
     openPR: 5
     closedIssue: 9
-    openIssue: 10
+    openIssue: 11
     commit: 67
   last60d:
     since: 2026-07-12
@@ -41,7 +41,7 @@ recent:
     mergedPR: 43
     openPR: 5
     closedIssue: 32
-    openIssue: 16
+    openIssue: 17
     commit: 208
   last90d:
     since: 2026-06-12
@@ -49,7 +49,7 @@ recent:
     mergedPR: 74
     openPR: 6
     closedIssue: 65
-    openIssue: 22
+    openIssue: 23
     commit: 322
   last180d:
     since: 2026-03-14
@@ -57,7 +57,7 @@ recent:
     mergedPR: 160
     openPR: 7
     closedIssue: 130
-    openIssue: 35
+    openIssue: 36
     commit: 770
   last360d:
     since: 2025-09-15
@@ -65,7 +65,7 @@ recent:
     mergedPR: 160
     openPR: 7
     closedIssue: 130
-    openIssue: 35
+    openIssue: 36
     commit: 958
   last720d:
     since: 2024-09-20
@@ -73,18 +73,18 @@ recent:
     mergedPR: 160
     openPR: 7
     closedIssue: 130
-    openIssue: 35
+    openIssue: 36
     commit: 960
 total:
   release: 82
   mergedPR: 160
   openPR: 7
   closedIssue: 130
-  openIssue: 35
+  openIssue: 36
   commit: 960
 ---
 path: /home/runner/.x-repo/github.com/chojs23/concord
-collectedAt: 2026-09-10T17:28:22Z
+collectedAt: 2026-09-10T21:34:02Z
 loc:
   Rust:
     code: 187000
