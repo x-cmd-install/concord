@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.5.18"
   latestRelease: "v2.5.18"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:31:32Z
+  collectedAt: 2026-09-10T17:28:17Z
 timeline:
   created: 2026-05-08
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 1457
+  star: 1466
   watcher: 5
-  fork: 76
+  fork: 77
   release: 82
   contributor: 33
   pullRequest: 177
@@ -84,7 +84,7 @@ total:
   commit: 960
 ---
 path: /home/runner/.x-repo/github.com/chojs23/concord
-collectedAt: 2026-09-10T05:31:37Z
+collectedAt: 2026-09-10T17:28:22Z
 loc:
   Rust:
     code: 187000
