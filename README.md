@@ -38,22 +38,22 @@ Total: **187,656** lines of code across **387** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,473 · **Forks**: 77 · **Open issues**: 167 · **Contributors**: 33
+- **Stars**: 1,475 · **Forks**: 77 · **Open issues**: 167 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 83 · **Merged PRs**: 163 · **Open PRs**: 7 · **Closed issues**: 131 · **Open issues**: 36 · **Commits**: 966
+- **Releases**: 83 · **Merged PRs**: 163 · **Open PRs**: 7 · **Closed issues**: 132 · **Open issues**: 35 · **Commits**: 966
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 13 | 23 | 5 | 9 | 11 | 73 |
-| last60d | 2026-07-13 | 29 | 46 | 5 | 30 | 17 | 214 |
-| 90d | 2026-06-13 | 47 | 77 | 6 | 65 | 23 | 328 |
-| last180d | 2026-03-15 | 83 | 163 | 7 | 131 | 36 | 776 |
-| 360d | 2025-09-16 | 83 | 163 | 7 | 131 | 36 | 964 |
-| last720d | 2024-09-21 | 83 | 163 | 7 | 131 | 36 | 966 |
+| 30d | 2026-08-13 | 11 | 23 | 5 | 8 | 10 | 73 |
+| last60d | 2026-07-14 | 29 | 46 | 5 | 29 | 16 | 214 |
+| 90d | 2026-06-14 | 47 | 76 | 6 | 63 | 22 | 328 |
+| last180d | 2026-03-16 | 83 | 163 | 7 | 132 | 35 | 776 |
+| 360d | 2025-09-17 | 83 | 163 | 7 | 132 | 35 | 964 |
+| last720d | 2024-09-22 | 83 | 163 | 7 | 132 | 35 | 966 |
 
 ## Release assets
 
@@ -84,7 +84,7 @@ Reported by **10** distros on [repology.org](https://repology.org/project/concor
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.5.18` | ✅ latest |
+| Homebrew | `2.5.19` | ✅ latest |
 | Nix unstable | `2.3.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -96,4 +96,4 @@ Install metadata for concord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:37:19Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:22:30Z._
