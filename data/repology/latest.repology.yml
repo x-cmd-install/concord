@@ -14,8 +14,8 @@
   srcname: concord-bin
   binname: concord-bin
   visiblename: concord-bin
-  version: 2.5.18
-  origversion: 2.5.18-1
+  version: 2.5.19
+  origversion: 2.5.19-1
   status: newest
   summary: A feature-rich TUI client for Discord
   maintainers:
@@ -49,7 +49,7 @@
 - repo: homebrew
   srcname: concord
   visiblename: concord
-  version: 2.5.18
+  version: 2.5.19
   origversion: null
   status: newest
   summary: Terminal user interface client for Discord
