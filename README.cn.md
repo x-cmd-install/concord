@@ -38,22 +38,22 @@ x install concord
 
 ## 流行度
 
-- **Star**: 1,481 · **Fork**: 79 · **开放 issue**: 169 · **贡献者**: 33
+- **Star**: 1,484 · **Fork**: 79 · **开放 issue**: 172 · **贡献者**: 33
 
 ## 累计统计
 
-- **发布数**: 84 · **已合并 PR**: 165 · **开放 PR**: 7 · **已关闭 issue**: 132 · **开放 issue**: 37 · **提交数**: 970
+- **发布数**: 84 · **已合并 PR**: 165 · **开放 PR**: 7 · **已关闭 issue**: 132 · **开放 issue**: 40 · **提交数**: 970
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 11 | 24 | 5 | 6 | 11 | 75 |
-| last60d | 2026-07-15 | 29 | 47 | 5 | 28 | 18 | 216 |
-| 90d | 2026-06-15 | 47 | 78 | 6 | 58 | 23 | 330 |
-| last180d | 2026-03-17 | 84 | 165 | 7 | 132 | 37 | 778 |
-| 360d | 2025-09-18 | 84 | 165 | 7 | 132 | 37 | 966 |
-| last720d | 2024-09-23 | 84 | 165 | 7 | 132 | 37 | 970 |
+| 30d | 2026-08-15 | 11 | 22 | 4 | 6 | 14 | 53 |
+| last60d | 2026-07-16 | 28 | 47 | 5 | 28 | 21 | 205 |
+| 90d | 2026-06-16 | 47 | 78 | 6 | 56 | 24 | 306 |
+| last180d | 2026-03-18 | 84 | 165 | 7 | 132 | 40 | 772 |
+| 360d | 2025-09-19 | 84 | 165 | 7 | 132 | 40 | 968 |
+| last720d | 2024-09-24 | 84 | 165 | 7 | 132 | 40 | 970 |
 
 ## Release 资产
 
@@ -78,15 +78,6 @@ x install concord
 | [source.tar.gz](https://github.com/chojs23/concord/releases/download/v2.5.20/source.tar.gz) | 3.7 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/chojs23/concord/releases/download/v2.5.20/source.tar.gz.sha256) | 81 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/concord) 上共有 **10** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.5.20` | ✅ latest |
-| Nix unstable | `2.3.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 concord 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `concord` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -96,4 +87,4 @@ concord 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:30:35Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:52:16Z._
