@@ -38,22 +38,22 @@ Total: **188,386** lines of code across **387** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,484 · **Forks**: 79 · **Open issues**: 172 · **Contributors**: 33
+- **Stars**: 1,497 · **Forks**: 80 · **Open issues**: 172 · **Contributors**: 33
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 165 · **Open PRs**: 7 · **Closed issues**: 132 · **Open issues**: 40 · **Commits**: 970
+- **Releases**: 84 · **Merged PRs**: 165 · **Open PRs**: 8 · **Closed issues**: 132 · **Open issues**: 40 · **Commits**: 970
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 11 | 22 | 4 | 6 | 14 | 53 |
-| last60d | 2026-07-16 | 28 | 47 | 5 | 28 | 21 | 205 |
-| 90d | 2026-06-16 | 47 | 78 | 6 | 56 | 24 | 306 |
-| last180d | 2026-03-18 | 84 | 165 | 7 | 132 | 40 | 772 |
-| 360d | 2025-09-19 | 84 | 165 | 7 | 132 | 40 | 968 |
-| last720d | 2024-09-24 | 84 | 165 | 7 | 132 | 40 | 970 |
+| 30d | 2026-08-16 | 10 | 22 | 5 | 5 | 13 | 53 |
+| last60d | 2026-07-17 | 28 | 44 | 6 | 27 | 20 | 205 |
+| 90d | 2026-06-17 | 47 | 77 | 7 | 54 | 24 | 306 |
+| last180d | 2026-03-19 | 84 | 165 | 8 | 132 | 40 | 772 |
+| 360d | 2025-09-20 | 84 | 165 | 8 | 132 | 40 | 968 |
+| last720d | 2024-09-25 | 84 | 165 | 8 | 132 | 40 | 970 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for concord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:52:15Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:43:36Z._
