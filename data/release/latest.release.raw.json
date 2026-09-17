@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6636712,
       "digest": "sha256:c6eb514736b8bd97af637c9b43c7ab9167a423c0c80d067c64bd28ea0d37ee6e",
-      "download_count": 18,
+      "download_count": 23,
       "created_at": "2026-09-15T12:21:31Z",
       "updated_at": "2026-09-15T12:21:32Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.5.21/concord-aarch64-apple-darwin.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8413436,
       "digest": "sha256:2355d9ef1d991f1bd045c0668388c2f8f074e10eac6fd02d2c5bf50dbf199bea",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-09-15T12:21:31Z",
       "updated_at": "2026-09-15T12:21:32Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.5.21/concord-aarch64-unknown-linux-gnu.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21608,
       "digest": "sha256:bef6144f7d5c09a73c310070a5a700fa723d096f51446e50b016428d7f922699",
-      "download_count": 3,
+      "download_count": 10,
       "created_at": "2026-09-15T12:21:31Z",
       "updated_at": "2026-09-15T12:21:31Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.5.21/concord-installer.ps1"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 53966,
       "digest": "sha256:a693b002f40ade9a893a0b332259c75fb6f9f0a4d515f16967a9840fd9002efe",
-      "download_count": 13,
+      "download_count": 38,
       "created_at": "2026-09-15T12:21:31Z",
       "updated_at": "2026-09-15T12:21:32Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.5.21/concord-installer.sh"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 11518921,
       "digest": "sha256:1e0a70cbaf6acff94655f902c34833c51f11b62c56ddd7c7c99f9a1d187c4530",
-      "download_count": 13,
+      "download_count": 29,
       "created_at": "2026-09-15T12:21:32Z",
       "updated_at": "2026-09-15T12:21:33Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.5.21/concord-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:1f738ed9c10732f00d7d9da2b7ca5fef261be70313ae1fc2f05bc21e5080a3fe",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-15T12:21:32Z",
       "updated_at": "2026-09-15T12:21:32Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.5.21/concord-x86_64-pc-windows-msvc.zip.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 9616884,
       "digest": "sha256:f5447c7b17e907d07f5dd20333ac3bb1733daa2434ae39b11dac10c46bae4c04",
-      "download_count": 36,
+      "download_count": 129,
       "created_at": "2026-09-15T12:21:32Z",
       "updated_at": "2026-09-15T12:21:33Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.5.21/concord-x86_64-unknown-linux-gnu.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:ba04eb150a58788a2b2f42ca331a73989727eae770e596cd946a4d2bd2777562",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-15T12:21:32Z",
       "updated_at": "2026-09-15T12:21:33Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.5.21/concord-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -690,11 +690,11 @@
   "body": "## Release Notes\n\n### Bug Fixes\n\n- _(voice)_ Tolerate capture latency to prevent microphone dropouts (#369) in [#369](https://github.com/chojs23/concord/pull/369) by @chojs23\n- _(tui)_ Preserve reply composer drafts (#345) in [#345](https://github.com/chojs23/concord/pull/345) by @flooryyyy\n\n### Features\n\n- _(tui)_ Search servers in the channel switcher with a `*` prefix (#368) in [#368](https://github.com/chojs23/concord/pull/368) by @sunglasseslol\n\n### New Contributors\n\n- @sunglasseslol made their first contribution in [#368](https://github.com/chojs23/concord/pull/368)\n- @flooryyyy made their first contribution in [#345](https://github.com/chojs23/concord/pull/345)\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/chojs23/concord/releases/389120515/reactions",
-    "total_count": 3,
+    "total_count": 4,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 2,
     "confused": 0,
     "heart": 1,
     "rocket": 1,
