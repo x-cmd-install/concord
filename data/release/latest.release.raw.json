@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6679256,
       "digest": "sha256:f2a0ffb4770b3c290a2c88d7e86c205b72d9ce7aef5096661500f3c040fc5b55",
-      "download_count": 19,
+      "download_count": 34,
       "created_at": "2026-09-22T11:56:54Z",
       "updated_at": "2026-09-22T11:56:55Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.0/concord-aarch64-apple-darwin.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21601,
       "digest": "sha256:d278f28ceefdcecbe500cd4a58721c1034e0ca55b9d7054811027b6e9126dc37",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-09-22T11:56:54Z",
       "updated_at": "2026-09-22T11:56:55Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.0/concord-installer.ps1"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 53959,
       "digest": "sha256:62d2c4f8d3eac8e9c4b43f16721c711ecdac934cbad4fc181f5474c6c03f13a1",
-      "download_count": 19,
+      "download_count": 34,
       "created_at": "2026-09-22T11:56:55Z",
       "updated_at": "2026-09-22T11:56:55Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.0/concord-installer.sh"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 11616285,
       "digest": "sha256:0c0f1130d108d9d2b5f8abab8f14bbe257710ee82d514427b7c3531513a5a113",
-      "download_count": 16,
+      "download_count": 30,
       "created_at": "2026-09-22T11:56:55Z",
       "updated_at": "2026-09-22T11:56:56Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.0/concord-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:a72bf3091408abac8473441eb8e0e79fe321f52a8e21a51c3ec90c67c3328e39",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-22T11:56:55Z",
       "updated_at": "2026-09-22T11:56:55Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.0/concord-x86_64-pc-windows-msvc.zip.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 9677688,
       "digest": "sha256:6141f414a333a3e3bb0c9607773816c4f87477442a74b84716c90f94fa9bc9e2",
-      "download_count": 82,
+      "download_count": 176,
       "created_at": "2026-09-22T11:56:55Z",
       "updated_at": "2026-09-22T11:56:56Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.0/concord-x86_64-unknown-linux-gnu.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:1ab77b9f5f8a2fc9fdfa2fd70391f844325973b5a35cd594a4d8c00f64612833",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-22T11:56:56Z",
       "updated_at": "2026-09-22T11:56:56Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.0/concord-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -690,11 +690,11 @@
   "body": "## Release Notes\n\n### Features\n\n- _(tui)_ Rebuild mouse input around semantic interaction targets by @chojs23\n- _(message)_ Add message and composer translation by @chojs23\n\n",
   "reactions": {
     "url": "https://api.github.com/repos/chojs23/concord/releases/393691687/reactions",
-    "total_count": 4,
+    "total_count": 5,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 2,
     "confused": 0,
     "heart": 1,
     "rocket": 1,
