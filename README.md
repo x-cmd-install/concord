@@ -22,7 +22,7 @@ Total: **195,196** lines of code across **400** files in the top 5 languages.
 | Toml | 390 | 21 | 17 | 3 |
 | Nix | 125 | 18 | 20 | 2 |
 | Json | 72 | 0 | 0 | 1 |
-| Markdown | 0 | 2,173 | 922 | 5 |
+| Markdown | 0 | 2,171 | 921 | 5 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **195,196** lines of code across **400** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.6.1` (2026-09-29)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-10-02
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,582 · **Forks**: 81 · **Open issues**: 180 · **Contributors**: 37
+- **Stars**: 1,585 · **Forks**: 82 · **Open issues**: 181 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 174 · **Open PRs**: 6 · **Closed issues**: 136 · **Open issues**: 44 · **Commits**: 985
+- **Releases**: 88 · **Merged PRs**: 174 · **Open PRs**: 6 · **Closed issues**: 136 · **Open issues**: 45 · **Commits**: 986
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 9 | 17 | 0 | 6 | 14 | 42 |
-| last60d | 2026-08-03 | 23 | 39 | 4 | 19 | 19 | 140 |
-| 90d | 2026-07-04 | 41 | 63 | 4 | 42 | 25 | 272 |
-| last180d | 2026-04-05 | 88 | 174 | 6 | 136 | 44 | 777 |
-| 360d | 2025-10-07 | 88 | 174 | 6 | 136 | 44 | 984 |
-| last720d | 2024-10-12 | 88 | 174 | 6 | 136 | 44 | 985 |
+| 30d | 2026-09-03 | 9 | 16 | 0 | 6 | 15 | 0 |
+| last60d | 2026-08-04 | 22 | 39 | 4 | 18 | 20 | 0 |
+| 90d | 2026-07-05 | 40 | 62 | 4 | 41 | 26 | 0 |
+| last180d | 2026-04-06 | 88 | 174 | 6 | 136 | 45 | 0 |
+| 360d | 2025-10-08 | 88 | 174 | 6 | 136 | 45 | 0 |
+| last720d | 2024-10-13 | 88 | 174 | 6 | 136 | 45 | 986 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for concord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:07:27Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:54:00Z._
