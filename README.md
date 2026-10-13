@@ -48,12 +48,12 @@ Total: **195,196** lines of code across **400** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 5 | 7 | 1 | 2 | 16 | 12 |
-| last60d | 2026-08-13 | 16 | 33 | 5 | 12 | 26 | 75 |
-| 90d | 2026-07-14 | 34 | 56 | 5 | 33 | 32 | 227 |
-| last180d | 2026-04-15 | 88 | 174 | 7 | 136 | 52 | 766 |
-| 360d | 2025-10-17 | 88 | 174 | 7 | 136 | 52 | 985 |
-| last720d | 2024-10-22 | 88 | 174 | 7 | 136 | 52 | 986 |
+| 30d | 2026-09-13 | 4 | 7 | 1 | 2 | 13 | 12 |
+| last60d | 2026-08-14 | 15 | 32 | 5 | 10 | 25 | 75 |
+| 90d | 2026-07-15 | 33 | 55 | 5 | 32 | 32 | 227 |
+| last180d | 2026-04-16 | 88 | 174 | 7 | 136 | 52 | 766 |
+| 360d | 2025-10-18 | 88 | 174 | 7 | 136 | 52 | 985 |
+| last720d | 2024-10-23 | 88 | 174 | 7 | 136 | 52 | 986 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for concord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:35:50Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:38:18Z._
