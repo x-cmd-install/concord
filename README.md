@@ -33,27 +33,27 @@ Total: **196,376** lines of code across **401** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.6.3` (2026-10-18)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-23
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,625 · **Forks**: 87 · **Open issues**: 194 · **Contributors**: 39
+- **Stars**: 1,627 · **Forks**: 88 · **Open issues**: 195 · **Contributors**: 39
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 180 · **Open PRs**: 7 · **Closed issues**: 141 · **Open issues**: 53 · **Commits**: 996
+- **Releases**: 90 · **Merged PRs**: 180 · **Open PRs**: 8 · **Closed issues**: 142 · **Open issues**: 53 · **Commits**: 997
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 3 | 8 | 1 | 5 | 13 | 15 |
-| last60d | 2026-08-24 | 14 | 30 | 3 | 12 | 25 | 69 |
-| 90d | 2026-07-25 | 30 | 53 | 5 | 35 | 27 | 218 |
-| last180d | 2026-04-26 | 90 | 180 | 7 | 141 | 53 | 771 |
-| 360d | 2025-10-28 | 90 | 180 | 7 | 141 | 53 | 995 |
-| last720d | 2024-11-02 | 90 | 180 | 7 | 141 | 53 | 996 |
+| 30d | 2026-09-24 | 3 | 8 | 2 | 5 | 14 | 16 |
+| last60d | 2026-08-25 | 13 | 29 | 3 | 13 | 24 | 70 |
+| 90d | 2026-07-26 | 29 | 53 | 6 | 35 | 27 | 219 |
+| last180d | 2026-04-27 | 90 | 180 | 8 | 142 | 53 | 772 |
+| 360d | 2025-10-29 | 90 | 180 | 8 | 142 | 53 | 996 |
+| last720d | 2024-11-03 | 90 | 180 | 8 | 142 | 53 | 997 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for concord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:28:45Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:20:16Z._
