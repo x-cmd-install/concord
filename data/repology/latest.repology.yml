@@ -1,21 +1,10 @@
-- repo: nix_stable_24_11
-  srcname: concord
-  visiblename: concord
-  version: 2.3.0
-  origversion: null
-  status: outdated
-  summary: Discord API wrapper library made in C
-  maintainers:
-    - emneo@kreog.com
-  licenses:
-    - MIT
 - repo: aur
   srcname: concord
   binname: concord
   visiblename: concord
-  version: 2.5.12
-  origversion: 2.5.12-1
-  status: outdated
+  version: 2.6.3
+  origversion: 2.6.3-1
+  status: newest
   summary: A feature-rich TUI client for Discord
   maintainers:
     - ccatdev@aur
@@ -64,6 +53,17 @@
   origversion: null
   status: newest
   summary: Terminal user interface client for Discord
+- repo: nix_stable_24_11
+  srcname: concord
+  visiblename: concord
+  version: 2.3.0
+  origversion: null
+  status: outdated
+  summary: Discord API wrapper library made in C
+  maintainers:
+    - emneo@kreog.com
+  licenses:
+    - MIT
 - repo: nix_stable_25_05
   srcname: concord
   visiblename: concord
