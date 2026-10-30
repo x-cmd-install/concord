@@ -14,11 +14,11 @@ x install concord
 
 ## Code insight
 
-Total: **196,376** lines of code across **401** files in the top 5 languages.
+Total: **196,502** lines of code across **401** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 195,789 | 1,587 | 16,952 | 390 |
+| Rust | 195,915 | 1,589 | 16,965 | 390 |
 | Toml | 390 | 21 | 17 | 3 |
 | Nix | 125 | 18 | 20 | 2 |
 | Json | 72 | 0 | 0 | 1 |
@@ -33,27 +33,27 @@ Total: **196,376** lines of code across **401** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.6.3` (2026-10-18)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-29
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,636 · **Forks**: 91 · **Open issues**: 198 · **Contributors**: 39
+- **Stars**: 1,638 · **Forks**: 92 · **Open issues**: 197 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 90 · **Merged PRs**: 180 · **Open PRs**: 11 · **Closed issues**: 142 · **Open issues**: 56 · **Commits**: 997
+- **Releases**: 90 · **Merged PRs**: 182 · **Open PRs**: 9 · **Closed issues**: 143 · **Open issues**: 54 · **Commits**: 999
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 3 | 6 | 5 | 4 | 15 | 12 |
-| last60d | 2026-08-30 | 13 | 25 | 5 | 13 | 26 | 56 |
-| 90d | 2026-07-31 | 27 | 52 | 9 | 32 | 30 | 162 |
-| last180d | 2026-05-02 | 90 | 180 | 11 | 142 | 56 | 767 |
-| 360d | 2025-11-03 | 90 | 180 | 11 | 142 | 56 | 996 |
-| last720d | 2024-11-08 | 90 | 180 | 11 | 142 | 56 | 997 |
+| 30d | 2026-09-30 | 2 | 8 | 3 | 5 | 14 | 14 |
+| last60d | 2026-08-31 | 12 | 27 | 3 | 13 | 24 | 58 |
+| 90d | 2026-08-01 | 27 | 53 | 7 | 31 | 28 | 164 |
+| last180d | 2026-05-03 | 90 | 182 | 9 | 143 | 54 | 769 |
+| 360d | 2025-11-04 | 90 | 182 | 9 | 143 | 54 | 998 |
+| last720d | 2024-11-09 | 90 | 182 | 9 | 143 | 54 | 999 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for concord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:26:34Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:23:12Z._
