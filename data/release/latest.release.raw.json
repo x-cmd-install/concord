@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6734184,
       "digest": "sha256:86594cbf3f02d6235ea30a566898ad09ebf3dabfcf6f161140b57236348137db",
-      "download_count": 48,
+      "download_count": 58,
       "created_at": "2026-10-30T09:03:59Z",
       "updated_at": "2026-10-30T09:04:00Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.4/concord-aarch64-apple-darwin.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8506824,
       "digest": "sha256:777bc978ecc274b427f9eab66a005bca2adc085a853264a1dbd2ea1475576499",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-10-30T09:03:59Z",
       "updated_at": "2026-10-30T09:04:00Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.4/concord-aarch64-unknown-linux-gnu.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21601,
       "digest": "sha256:12fae9d5298a065a68e272969fa4c80a62d9a4b38e64e9e96d2c5b3778d6efb4",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-10-30T09:03:59Z",
       "updated_at": "2026-10-30T09:04:00Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.4/concord-installer.ps1"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 53959,
       "digest": "sha256:24a67e3b211940de10c2c0e0d39911aaf776e5902dcfaac9053ee04a617fb579",
-      "download_count": 74,
+      "download_count": 85,
       "created_at": "2026-10-30T09:04:00Z",
       "updated_at": "2026-10-30T09:04:00Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.4/concord-installer.sh"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 7941604,
       "digest": "sha256:bbb3aec585dbaa2c9975835036335e6ad8e34b055f18c29c40fbdbfc3a2efd51",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-10-30T09:04:00Z",
       "updated_at": "2026-10-30T09:04:01Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-apple-darwin.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 11732822,
       "digest": "sha256:802e9c1a834e2bf6c3e18724791a1142a078154e3a58f1e0b75e93a83d804ee0",
-      "download_count": 56,
+      "download_count": 63,
       "created_at": "2026-10-30T09:04:00Z",
       "updated_at": "2026-10-30T09:04:01Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:36c9f7ab852b5049e547f84f6a8b65cf2cd6abdb237869dff49c4f9e00b7578b",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-30T09:04:01Z",
       "updated_at": "2026-10-30T09:04:01Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-pc-windows-msvc.zip.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 9754892,
       "digest": "sha256:89563bf940de90b3673fa74100a5933d2ae6bef04575cbe093158091b6fff89a",
-      "download_count": 347,
+      "download_count": 390,
       "created_at": "2026-10-30T09:04:01Z",
       "updated_at": "2026-10-30T09:04:01Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-unknown-linux-gnu.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:66cca11f036f8fdd7d631baf0f9b173a24b35a75af91f8e1274a536119d17c69",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-10-30T09:04:01Z",
       "updated_at": "2026-10-30T09:04:01Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3944044,
       "digest": "sha256:e678fb6d773c66860aad44067b0ea4e97b3e1c95cbd0aa80eae01164a103b4b5",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-30T09:04:01Z",
       "updated_at": "2026-10-30T09:04:02Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.6.4/source.tar.gz"
