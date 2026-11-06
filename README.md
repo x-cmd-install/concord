@@ -14,15 +14,15 @@ x install concord
 
 ## Code insight
 
-Total: **197,050** lines of code across **401** files in the top 5 languages.
+Total: **198,090** lines of code across **405** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 196,463 | 1,601 | 17,002 | 390 |
-| Toml | 390 | 21 | 17 | 3 |
+| Rust | 197,489 | 1,627 | 17,050 | 394 |
+| Toml | 404 | 21 | 18 | 3 |
 | Nix | 125 | 18 | 20 | 2 |
 | Json | 72 | 0 | 0 | 1 |
-| Markdown | 0 | 2,233 | 956 | 5 |
+| Markdown | 0 | 2,249 | 964 | 5 |
 
 ## Source
 
@@ -32,51 +32,51 @@ Total: **197,050** lines of code across **401** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.6.4` (2026-10-30)
-- **Last commit**: 2026-10-30
+- **Latest**: `v2.7.0` (2026-11-05)
+- **Last commit**: 2026-11-05
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,646 · **Forks**: 94 · **Open issues**: 201 · **Contributors**: 41
+- **Stars**: 1,649 · **Forks**: 95 · **Open issues**: 202 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 183 · **Open PRs**: 11 · **Closed issues**: 143 · **Open issues**: 58 · **Commits**: 1001
+- **Releases**: 92 · **Merged PRs**: 187 · **Open PRs**: 10 · **Closed issues**: 146 · **Open issues**: 56 · **Commits**: 1008
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 3 | 9 | 5 | 5 | 14 | 15 |
-| last60d | 2026-09-06 | 11 | 24 | 5 | 13 | 27 | 46 |
-| 90d | 2026-08-07 | 22 | 46 | 9 | 23 | 32 | 131 |
-| last180d | 2026-05-09 | 90 | 174 | 11 | 139 | 57 | 642 |
-| 360d | 2025-11-10 | 91 | 183 | 11 | 143 | 58 | 992 |
-| last720d | 2024-11-15 | 91 | 183 | 11 | 143 | 58 | 1001 |
+| 30d | 2026-10-07 | 4 | 13 | 4 | 8 | 11 | 22 |
+| last60d | 2026-09-07 | 12 | 28 | 4 | 14 | 25 | 53 |
+| 90d | 2026-08-08 | 22 | 50 | 8 | 26 | 30 | 138 |
+| last180d | 2026-05-10 | 87 | 169 | 10 | 141 | 55 | 649 |
+| 360d | 2025-11-11 | 92 | 187 | 10 | 146 | 56 | 999 |
+| last720d | 2024-11-16 | 92 | 187 | 10 | 146 | 56 | 1008 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [concord-aarch64-apple-darwin.tar.xz](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-aarch64-apple-darwin.tar.xz) | 6.4 MiB | `native/darwin/arm64` |
-| [concord-aarch64-apple-darwin.tar.xz.sha256](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-aarch64-apple-darwin.tar.xz.sha256) | 103 B | `native/darwin/arm64` |
-| [concord-aarch64-unknown-linux-gnu.tar.xz](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-aarch64-unknown-linux-gnu.tar.xz) | 8.1 MiB | `native/linux/arm64/glibc` |
-| [concord-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-aarch64-unknown-linux-gnu.tar.xz.sha256) | 108 B | `native/linux/arm64/glibc` |
-| [concord-installer.ps1](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-installer.ps1) | 21.1 KiB | `other` |
-| [concord-installer.sh](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-installer.sh) | 52.7 KiB | `other` |
-| [concord-npm-package.tar.gz](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-npm-package.tar.gz) | 50.5 KiB | `native/unknown` |
-| [concord-x86_64-apple-darwin.tar.xz](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-apple-darwin.tar.xz) | 7.6 MiB | `native/darwin/x64` |
-| [concord-x86_64-apple-darwin.tar.xz.sha256](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/x64` |
-| [concord-x86_64-pc-windows-msvc.zip](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-pc-windows-msvc.zip) | 11.2 MiB | `native/win/x64` |
-| [concord-x86_64-pc-windows-msvc.zip.sha256](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-pc-windows-msvc.zip.sha256) | 102 B | `native/win/x64` |
-| [concord-x86_64-unknown-linux-gnu.tar.xz](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-unknown-linux-gnu.tar.xz) | 9.3 MiB | `native/linux/x64/glibc` |
-| [concord-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/chojs23/concord/releases/download/v2.6.4/concord-x86_64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/x64/glibc` |
-| [concord.rb](https://github.com/chojs23/concord/releases/download/v2.6.4/concord.rb) | 2.4 KiB | `other` |
-| [dist-manifest.json](https://github.com/chojs23/concord/releases/download/v2.6.4/dist-manifest.json) | 31.9 KiB | `other` |
-| [sha256.sum](https://github.com/chojs23/concord/releases/download/v2.6.4/sha256.sum) | 691 B | `other` |
-| [source.tar.gz](https://github.com/chojs23/concord/releases/download/v2.6.4/source.tar.gz) | 3.8 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/chojs23/concord/releases/download/v2.6.4/source.tar.gz.sha256) | 81 B | `other` |
+| [concord-aarch64-apple-darwin.tar.xz](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-aarch64-apple-darwin.tar.xz) | 7.1 MiB | `native/darwin/arm64` |
+| [concord-aarch64-apple-darwin.tar.xz.sha256](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-aarch64-apple-darwin.tar.xz.sha256) | 103 B | `native/darwin/arm64` |
+| [concord-aarch64-unknown-linux-gnu.tar.xz](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-aarch64-unknown-linux-gnu.tar.xz) | 8.9 MiB | `native/linux/arm64/glibc` |
+| [concord-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-aarch64-unknown-linux-gnu.tar.xz.sha256) | 108 B | `native/linux/arm64/glibc` |
+| [concord-installer.ps1](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-installer.ps1) | 21.1 KiB | `other` |
+| [concord-installer.sh](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-installer.sh) | 52.7 KiB | `other` |
+| [concord-npm-package.tar.gz](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-npm-package.tar.gz) | 50.8 KiB | `native/unknown` |
+| [concord-x86_64-apple-darwin.tar.xz](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-x86_64-apple-darwin.tar.xz) | 8.4 MiB | `native/darwin/x64` |
+| [concord-x86_64-apple-darwin.tar.xz.sha256](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-x86_64-apple-darwin.tar.xz.sha256) | 102 B | `native/darwin/x64` |
+| [concord-x86_64-pc-windows-msvc.zip](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-x86_64-pc-windows-msvc.zip) | 12.9 MiB | `native/win/x64` |
+| [concord-x86_64-pc-windows-msvc.zip.sha256](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-x86_64-pc-windows-msvc.zip.sha256) | 102 B | `native/win/x64` |
+| [concord-x86_64-unknown-linux-gnu.tar.xz](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-x86_64-unknown-linux-gnu.tar.xz) | 10.2 MiB | `native/linux/x64/glibc` |
+| [concord-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/chojs23/concord/releases/download/v2.7.0/concord-x86_64-unknown-linux-gnu.tar.xz.sha256) | 107 B | `native/linux/x64/glibc` |
+| [concord.rb](https://github.com/chojs23/concord/releases/download/v2.7.0/concord.rb) | 2.4 KiB | `other` |
+| [dist-manifest.json](https://github.com/chojs23/concord/releases/download/v2.7.0/dist-manifest.json) | 32.3 KiB | `other` |
+| [sha256.sum](https://github.com/chojs23/concord/releases/download/v2.7.0/sha256.sum) | 691 B | `other` |
+| [source.tar.gz](https://github.com/chojs23/concord/releases/download/v2.7.0/source.tar.gz) | 3.8 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/chojs23/concord/releases/download/v2.7.0/source.tar.gz.sha256) | 81 B | `other` |
 
 ## Distribution status
 
@@ -84,7 +84,7 @@ Reported by **10** distros on [repology.org](https://repology.org/project/concor
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.6.4` | ✅ latest |
+| Homebrew | `2.7.0` | ✅ latest |
 | Nix unstable | `2.3.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -96,4 +96,4 @@ Install metadata for concord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:20:49Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:24:00Z._
