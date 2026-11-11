@@ -14,11 +14,11 @@ x install concord
 
 ## Code insight
 
-Total: **198,092** lines of code across **405** files in the top 5 languages.
+Total: **198,182** lines of code across **405** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 197,489 | 1,627 | 17,050 | 394 |
+| Rust | 197,579 | 1,627 | 17,053 | 394 |
 | Toml | 404 | 21 | 18 | 3 |
 | Nix | 127 | 20 | 20 | 2 |
 | Json | 72 | 0 | 0 | 1 |
@@ -38,22 +38,22 @@ Total: **198,092** lines of code across **405** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,663 · **Forks**: 97 · **Open issues**: 203 · **Contributors**: 42
+- **Stars**: 1,667 · **Forks**: 97 · **Open issues**: 203 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 187 · **Open PRs**: 11 · **Closed issues**: 147 · **Open issues**: 56 · **Commits**: 1009
+- **Releases**: 92 · **Merged PRs**: 188 · **Open PRs**: 10 · **Closed issues**: 147 · **Open issues**: 56 · **Commits**: 1010
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 4 | 12 | 5 | 6 | 10 | 19 |
-| last60d | 2026-09-11 | 10 | 22 | 5 | 12 | 23 | 35 |
-| 90d | 2026-08-12 | 22 | 46 | 9 | 25 | 30 | 104 |
-| last180d | 2026-05-14 | 83 | 147 | 10 | 126 | 53 | 536 |
-| 360d | 2025-11-15 | 92 | 187 | 11 | 147 | 56 | 993 |
-| last720d | 2024-11-20 | 92 | 187 | 11 | 147 | 56 | 1009 |
+| 30d | 2026-10-12 | 4 | 13 | 4 | 6 | 10 | 20 |
+| last60d | 2026-09-12 | 9 | 21 | 4 | 12 | 21 | 36 |
+| 90d | 2026-08-13 | 20 | 47 | 8 | 23 | 30 | 105 |
+| last180d | 2026-05-15 | 82 | 147 | 9 | 123 | 52 | 537 |
+| 360d | 2025-11-16 | 92 | 188 | 10 | 147 | 56 | 994 |
+| last720d | 2024-11-21 | 92 | 188 | 10 | 147 | 56 | 1010 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for concord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:05:30Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:25:57Z._
