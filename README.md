@@ -38,22 +38,22 @@ Total: **199,208** lines of code across **409** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,681 · **Forks**: 99 · **Open issues**: 206 · **Contributors**: 42
+- **Stars**: 1,684 · **Forks**: 100 · **Open issues**: 207 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 191 · **Open PRs**: 10 · **Closed issues**: 150 · **Open issues**: 56 · **Commits**: 1014
+- **Releases**: 93 · **Merged PRs**: 191 · **Open PRs**: 11 · **Closed issues**: 150 · **Open issues**: 57 · **Commits**: 1014
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 3 | 11 | 4 | 7 | 7 | 18 |
-| last60d | 2026-09-20 | 7 | 19 | 4 | 14 | 18 | 33 |
-| 90d | 2026-08-21 | 18 | 41 | 6 | 22 | 28 | 90 |
-| last180d | 2026-05-23 | 73 | 128 | 9 | 109 | 47 | 450 |
-| 360d | 2025-11-24 | 93 | 191 | 10 | 150 | 56 | 988 |
-| last720d | 2024-11-29 | 93 | 191 | 10 | 150 | 56 | 1014 |
+| 30d | 2026-10-21 | 3 | 11 | 5 | 7 | 8 | 18 |
+| last60d | 2026-09-21 | 7 | 19 | 5 | 14 | 19 | 33 |
+| 90d | 2026-08-22 | 17 | 41 | 7 | 21 | 29 | 90 |
+| last180d | 2026-05-24 | 73 | 127 | 10 | 109 | 48 | 450 |
+| 360d | 2025-11-25 | 93 | 191 | 11 | 150 | 57 | 988 |
+| last720d | 2024-11-30 | 93 | 191 | 11 | 150 | 57 | 1014 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Total: **199,208** lines of code across **409** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/concord). **2** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/concord). **3** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -96,4 +96,4 @@ Install metadata for concord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:51:55Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:55:05Z._
