@@ -2,9 +2,9 @@
   srcname: concord
   binname: concord
   visiblename: concord
-  version: 2.6.3
-  origversion: 2.6.3-1
-  status: outdated
+  version: 2.7.1
+  origversion: 2.7.1-1
+  status: newest
   summary: A feature-rich TUI client for Discord
   maintainers:
     - ccatdev@aur
