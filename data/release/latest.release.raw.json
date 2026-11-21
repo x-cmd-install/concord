@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7526452,
       "digest": "sha256:c3025e8819ce0ed712700000ea0f6517e6810c8366f135fb8c7346818a24ff1e",
-      "download_count": 46,
+      "download_count": 50,
       "created_at": "2026-11-16T15:32:21Z",
       "updated_at": "2026-11-16T15:32:22Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-aarch64-apple-darwin.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:d3b80b216895df4e28dabe37b1e5c6d73b23cbd028796d5dc2b068c2c5a6557a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-16T15:32:21Z",
       "updated_at": "2026-11-16T15:32:21Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-aarch64-apple-darwin.tar.xz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9382996,
       "digest": "sha256:29c932082d160932a081eb7bf242dcc4ef0314a744738cdc59d2632e24177970",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-11-16T15:32:21Z",
       "updated_at": "2026-11-16T15:32:22Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-aarch64-unknown-linux-gnu.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:ba9617560c51fecd17f8c67b60172e4282eb0dcc4f6c54ced981b3c82760cd61",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-16T15:32:21Z",
       "updated_at": "2026-11-16T15:32:21Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21601,
       "digest": "sha256:4ab0f2ef0f98b9e5b07bf9a0a54273810c9087126294f55a0c17637f329dc5b2",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-16T15:32:21Z",
       "updated_at": "2026-11-16T15:32:21Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-installer.ps1"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 53959,
       "digest": "sha256:5efbb622d9a1a3d0a949c83879e4b59f88480cf4e8b61fe2d3b19a72feb1541d",
-      "download_count": 56,
+      "download_count": 65,
       "created_at": "2026-11-16T15:32:21Z",
       "updated_at": "2026-11-16T15:32:22Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-installer.sh"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 51928,
       "digest": "sha256:88fc24d2b840af8aed7009676c18e224df86fb46de89b2006b15b4cfbf4a9dda",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T15:32:22Z",
       "updated_at": "2026-11-16T15:32:22Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-npm-package.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 8821688,
       "digest": "sha256:48b6881b0d4cbcb13dda28b7d951f6adbc79f759135e98e3fb600bf3ead12531",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-16T15:32:22Z",
       "updated_at": "2026-11-16T15:32:22Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-x86_64-apple-darwin.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:4a15edd2d48e5954b5a2297ef18936f918198dabea3ef14da6f1b2eb2a1c472d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-16T15:32:22Z",
       "updated_at": "2026-11-16T15:32:22Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-x86_64-apple-darwin.tar.xz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13600768,
       "digest": "sha256:9cbf7a83a3896a125d6d458abc4bbf731f8915ee0aed9b8b3fbe3f16a870148e",
-      "download_count": 49,
+      "download_count": 61,
       "created_at": "2026-11-16T15:32:22Z",
       "updated_at": "2026-11-16T15:32:23Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 102,
       "digest": "sha256:683656bc07f7c5f9c1b772ea0926942da7821205a1ecab1400869c57c4481494",
-      "download_count": 4,
+      "download_count": 7,
       "created_at": "2026-11-16T15:32:22Z",
       "updated_at": "2026-11-16T15:32:22Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-x86_64-pc-windows-msvc.zip.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 10729076,
       "digest": "sha256:8a0f0e862958c3f401a2aa88afd53b3d4b815b3ec2aed30f832a3199a3d6c6e2",
-      "download_count": 292,
+      "download_count": 329,
       "created_at": "2026-11-16T15:32:23Z",
       "updated_at": "2026-11-16T15:32:23Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-x86_64-unknown-linux-gnu.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:1bda03ba06b8c68b4e6ece40fd3b9ac4b555cf5972e224383be5a01f8384ffb2",
-      "download_count": 9,
+      "download_count": 21,
       "created_at": "2026-11-16T15:32:23Z",
       "updated_at": "2026-11-16T15:32:23Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2475,
       "digest": "sha256:387d28c534c524d329268a8c842e690dbb8d2b3631df5a2d8e9268b365f11c16",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-16T15:32:23Z",
       "updated_at": "2026-11-16T15:32:23Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/concord.rb"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 33143,
       "digest": "sha256:7d10d44e8696afdab6358ba1414256f2bd6c56e66a4652e8f9049a5cfe55f8be",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-16T15:32:23Z",
       "updated_at": "2026-11-16T15:32:23Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/dist-manifest.json"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 691,
       "digest": "sha256:164662ef3f1019903b548f984ac68c8d25b19e2c1e4bac4340a5c210865583ec",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-16T15:32:23Z",
       "updated_at": "2026-11-16T15:32:23Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/sha256.sum"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3968465,
       "digest": "sha256:66667114e23570cdcacdd4851ce1260ce8538e3d1ad588db379e37196a203d06",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-16T15:32:23Z",
       "updated_at": "2026-11-16T15:32:24Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/source.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:a94bdcfe2ae14307cacf8715b0447e34f1630339da319992bc857a1df8aa7af6",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T15:32:23Z",
       "updated_at": "2026-11-16T15:32:24Z",
       "browser_download_url": "https://github.com/chojs23/concord/releases/download/v2.7.1/source.tar.gz.sha256"
@@ -688,5 +688,17 @@
   "tarball_url": "https://api.github.com/repos/chojs23/concord/tarball/v2.7.1",
   "zipball_url": "https://api.github.com/repos/chojs23/concord/zipball/v2.7.1",
   "body": "## Release Notes\n\n### Bug Fixes\n\n- _(nix)_ Add git to native build inputs (#427) in [#427](https://github.com/chojs23/concord/pull/427) by @LordHerdier\n- _(tui)_ Serialize Lottie decoding to prevent native crashes (#430) in [#430](https://github.com/chojs23/concord/pull/430) by @chojs23\n- _(tui)_ Support Discord-style flag emoji shortcodes (#431) by @chojs23\n\n### Features\n\n- Distinguish mobile-only online presence in TUI (#424) in [#424](https://github.com/chojs23/concord/pull/424) by @SailinEast\n- _(voice)_ Add voice-state export over secure local IPC (#432) in [#432](https://github.com/chojs23/concord/pull/432) by @chojs23\n\n### New Contributors\n\n- @LordHerdier made their first contribution in [#427](https://github.com/chojs23/concord/pull/427)\n\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/chojs23/concord/releases/447229500/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 3
 }
