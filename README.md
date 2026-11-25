@@ -38,7 +38,7 @@ Total: **202,015** lines of code across **412** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,693 · **Forks**: 99 · **Open issues**: 208 · **Contributors**: 44
+- **Stars**: 1,692 · **Forks**: 99 · **Open issues**: 208 · **Contributors**: 44
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **202,015** lines of code across **412** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 4 | 15 | 5 | 9 | 2 | 23 |
-| last60d | 2026-09-25 | 7 | 24 | 5 | 17 | 15 | 38 |
-| 90d | 2026-08-26 | 17 | 44 | 6 | 26 | 24 | 85 |
-| last180d | 2026-05-28 | 69 | 129 | 10 | 109 | 41 | 427 |
-| 360d | 2025-11-29 | 94 | 197 | 11 | 156 | 52 | 987 |
-| last720d | 2024-12-04 | 94 | 197 | 11 | 156 | 52 | 1022 |
+| 30d | 2026-10-26 | 4 | 15 | 5 | 9 | 2 | 23 |
+| last60d | 2026-09-26 | 7 | 24 | 5 | 16 | 14 | 38 |
+| 90d | 2026-08-27 | 17 | 44 | 5 | 26 | 23 | 85 |
+| last180d | 2026-05-29 | 68 | 127 | 10 | 108 | 41 | 427 |
+| 360d | 2025-11-30 | 94 | 197 | 11 | 156 | 52 | 987 |
+| last720d | 2024-12-05 | 94 | 197 | 11 | 156 | 52 | 1022 |
 
 ## Release assets
 
@@ -78,15 +78,6 @@ Total: **202,015** lines of code across **412** files in the top 5 languages.
 | [source.tar.gz](https://github.com/chojs23/concord/releases/download/v2.7.2/source.tar.gz) | 3.8 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/chojs23/concord/releases/download/v2.7.2/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/concord). **2** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.7.2` | ✅ latest |
-| Nix unstable | `2.3.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for concord lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `concord` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +87,4 @@ Install metadata for concord lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:02:56Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:56:34Z._
