@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.7.3"
   latestRelease: "v2.7.3"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:46:22Z
+  collectedAt: 2026-11-28T08:37:03Z
 timeline:
   created: 2026-05-08
   lastCommit: 2026-11-26
@@ -15,44 +15,44 @@ timeline:
   lastRelease: 2026-11-26
   lastPrerelease: 
 popularity:
-  star: 1694
+  star: 1696
   watcher: 5
-  fork: 98
+  fork: 99
   release: 95
   contributor: 45
   pullRequest: 218
-  issue: 208
+  issue: 209
 language:
   Rust: 7705678
   Nix: 4856
 totalBytes: 7710534
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 5
     mergedPR: 18
     openPR: 0
     closedIssue: 10
-    openIssue: 1
+    openIssue: 2
     commit: 28
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 8
-    mergedPR: 28
+    mergedPR: 27
     openPR: 1
     closedIssue: 17
-    openIssue: 13
+    openIssue: 14
     commit: 43
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 18
-    mergedPR: 47
+    mergedPR: 46
     openPR: 1
     closedIssue: 28
-    openIssue: 21
+    openIssue: 22
     commit: 90
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 67
     mergedPR: 129
     openPR: 6
@@ -60,31 +60,31 @@ recent:
     openIssue: 38
     commit: 432
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 95
     mergedPR: 201
     openPR: 7
-    closedIssue: 159
+    closedIssue: 160
     openIssue: 49
     commit: 992
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 95
     mergedPR: 201
     openPR: 7
-    closedIssue: 159
+    closedIssue: 160
     openIssue: 49
     commit: 1027
 total:
   release: 95
   mergedPR: 201
   openPR: 7
-  closedIssue: 159
+  closedIssue: 160
   openIssue: 49
   commit: 1027
 ---
 path: /home/runner/.x-repo/github.com/chojs23/concord
-collectedAt: 2026-11-27T09:46:27Z
+collectedAt: 2026-11-28T08:37:09Z
 loc:
   Rust:
     code: 201783
@@ -119,4 +119,4 @@ total:
 ---
 
 ---
-{"id":459443396,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSX_Ir84bYozE","tag_name":"v2.7.3","target_commitish":"f41a58aa5909ce2bcaec3a9dc1ee849f736ade7e","name":"2.7.3 - 2026-11-26","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-26T12:39:36Z","updated_at":"2026-11-26T13:21:40Z","published_at":"2026-11-26T13:21:40Z","assets":[{"id":795998658,"node_id":"RA_kwDOSX_Ir84vcfnC","name":"concord-aarch64-apple-darwin.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":7604212,"digest":"sha256:f05249a89e02ede8ca3a30f2983f1241c0d4d977c12280ebb412d5de629c59ca","download_count":12,"created_at":"2026-11-26T13:21:35Z","updated_at":"2026-11-26T13:21:36Z"},{"id":795998665,"node_id":"RA_kwDOSX_Ir84vcfnJ","name":"concord-aarch64-apple-darwin.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":103,"digest":"sha256:6259adf0c270cf2a3b66fc0cd3bce32f79986c82b7f5a4ac38d327d7d7b3a137","download_count":3,"created_at":"2026-11-26T13:21:35Z","updated_at":"2026-11-26T13:21:35Z"},{"id":795998666,"node_id":"RA_kwDOSX_Ir84vcfnK","name":"concord-aarch64-unknown-linux-gnu.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":9447260,"digest":"sha256:01bfcf3f95e2c3960d0fb2a29cb75e7869dd226fafb287d08e000682546b6c06","download_count":11,"created_at":"2026-11-26T13:21:35Z","updated_at":"2026-11-26T13:21:37Z"},{"id":795998669,"node_id":"RA_kwDOSX_Ir84vcfnN","name":"concord-aarch64-unknown-linux-gnu.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":108,"digest":"sha256:dcc729c299f9142978a85d5919cb53ed14490cd418d27fc30f762c97620ba219","download_count":3,"created_at":"2026-11-26T13:21:35Z","updated_at":"2026-11-26T13:21:35Z"},{"id":795998671,"node_id":"RA_kwDOSX_Ir84vcfnP","name":"concord-installer.ps1","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-powershell","state":"uploaded","size":21601,"digest":"sha256:8806c7cce0bf0c987e897851b80214c960dd1db29b0feed1a1e2559e6171b29f","download_count":6,"created_at":"2026-11-26T13:21:35Z","updated_at":"2026-11-26T13:21:35Z"},{"id":795998696,"node_id":"RA_kwDOSX_Ir84vcfno","name":"concord-installer.sh","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-shellscript","state":"uploaded","size":53959,"digest":"sha256:fd95c2201dc8f44fe3f0f46e5acccbba29661bf1fc0a82fff0bbcf179448e39e","download_count":18,"created_at":"2026-11-26T13:21:36Z","updated_at":"2026-11-26T13:21:36Z"},{"id":795998703,"node_id":"RA_kwDOSX_Ir84vcfnv","name":"concord-npm-package.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":52988,"digest":"sha256:395d518e52ffbec311ed18ce2786494d58f51f9cdd5300278fd1bd6859cfbd96","download_count":3,"created_at":"2026-11-26T13:21:36Z","updated_at":"2026-11-26T13:21:36Z"},{"id":795998709,"node_id":"RA_kwDOSX_Ir84vcfn1","name":"concord-x86_64-apple-darwin.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":8904364,"digest":"sha256:15f71c61702523ae7ed016b0dde47e55970515da4c8846b1e609b857b366f9c2","download_count":5,"created_at":"2026-11-26T13:21:36Z","updated_at":"2026-11-26T13:21:37Z"},{"id":795998746,"node_id":"RA_kwDOSX_Ir84vcfoa","name":"concord-x86_64-apple-darwin.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":102,"digest":"sha256:eef2df0f79fd225b4fa53f6cb3a9ff9bfe28fe9583d7bb64f64ede3357cb281a","download_count":3,"created_at":"2026-11-26T13:21:37Z","updated_at":"2026-11-26T13:21:37Z"},{"id":795998751,"node_id":"RA_kwDOSX_Ir84vcfof","name":"concord-x86_64-pc-windows-msvc.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":13708579,"digest":"sha256:77a079ab0de260d93d8d7f043ecbb6d952b6b72a74c071523c6205c9851a53ae","download_count":22,"created_at":"2026-11-26T13:21:37Z","updated_at":"2026-11-26T13:21:38Z"},{"id":795998753,"node_id":"RA_kwDOSX_Ir84vcfoh","name":"concord-x86_64-pc-windows-msvc.zip.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":102,"digest":"sha256:d7525f640b05e7eb8601790fab60a0f44e01e5510dea5bc4169fcc4ea08b68df","download_count":6,"created_at":"2026-11-26T13:21:37Z","updated_at":"2026-11-26T13:21:37Z"},{"id":795998769,"node_id":"RA_kwDOSX_Ir84vcfox","name":"concord-x86_64-unknown-linux-gnu.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":10808576,"digest":"sha256:a55758c94ce815f30bd0264fdec857d36a667f090c9b5e71b32689a9898aea2d","download_count":105,"created_at":"2026-11-26T13:21:37Z","updated_at":"2026-11-26T13:21:39Z"},{"id":795998795,"node_id":"RA_kwDOSX_Ir84vcfpL","name":"concord-x86_64-unknown-linux-gnu.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":107,"digest":"sha256:459adc7ed17a67cc392e39f1c54da3a1f96a8500ad926e36ca2ad880e423a4bf","download_count":11,"created_at":"2026-11-26T13:21:38Z","updated_at":"2026-11-26T13:21:38Z"},{"id":795998814,"node_id":"RA_kwDOSX_Ir84vcfpe","name":"concord.rb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-ruby","state":"uploaded","size":2475,"digest":"sha256:0094dfb300ce7a12bd36d0381524f42d0190b0157945930f21038a3d551566d8","download_count":3,"created_at":"2026-11-26T13:21:38Z","updated_at":"2026-11-26T13:21:38Z"},{"id":795998809,"node_id":"RA_kwDOSX_Ir84vcfpZ","name":"sha256.sum","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":691,"digest":"sha256:5f184881808e02bbf6b60c3b6a05fc3f79813ff9a2be62b34ee9f2e780950f45","download_count":5,"created_at":"2026-11-26T13:21:38Z","updated_at":"2026-11-26T13:21:38Z"},{"id":795998989,"node_id":"RA_kwDOSX_Ir84vcfsN","name":"source.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":3993622,"digest":"sha256:e48a9ea2fbb1cef88d75b660e4fbc43d2d55d4201bfe758ff45b9fca27e1f0b6","download_count":3,"created_at":"2026-11-26T13:21:38Z","updated_at":"2026-11-26T13:21:39Z"},{"id":795999000,"node_id":"RA_kwDOSX_Ir84vcfsY","name":"source.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":81,"digest":"sha256:d06db7a830dab909eb976625cb934566dc458fed491670e104beeb365310af7c","download_count":3,"created_at":"2026-11-26T13:21:38Z","updated_at":"2026-11-26T13:21:39Z"}],"body":"## Release Notes\n\n### Bug Fixes\n\n- _(tui)_ Ignore diacritics when searching names (#442) in [#442](https://github.com/chojs23/concord/pull/442) by @Staberman\n- Removed tenor command (#439) in [#439](https://github.com/chojs23/concord/pull/439) by @regarager\n- Changed extension of temporary message file from .txt to .md (#440) in [#440](https://github.com/chojs23/concord/pull/440) by @regarager\n\n### Features\n\n- Optionally use a terminal file manager to select attachments (#441) in [#441](https://github.com/chojs23/concord/pull/441) by @regarager\n\n### New Contributors\n\n- @Staberman made their first contribution in [#442](https://github.com/chojs23/concord/pull/442)\n\n","mentions_count":2}
+{"id":459443396,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOSX_Ir84bYozE","tag_name":"v2.7.3","target_commitish":"f41a58aa5909ce2bcaec3a9dc1ee849f736ade7e","name":"2.7.3 - 2026-11-26","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-26T12:39:36Z","updated_at":"2026-11-26T13:21:40Z","published_at":"2026-11-26T13:21:40Z","assets":[{"id":795998658,"node_id":"RA_kwDOSX_Ir84vcfnC","name":"concord-aarch64-apple-darwin.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":7604212,"digest":"sha256:f05249a89e02ede8ca3a30f2983f1241c0d4d977c12280ebb412d5de629c59ca","download_count":24,"created_at":"2026-11-26T13:21:35Z","updated_at":"2026-11-26T13:21:36Z"},{"id":795998665,"node_id":"RA_kwDOSX_Ir84vcfnJ","name":"concord-aarch64-apple-darwin.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":103,"digest":"sha256:6259adf0c270cf2a3b66fc0cd3bce32f79986c82b7f5a4ac38d327d7d7b3a137","download_count":3,"created_at":"2026-11-26T13:21:35Z","updated_at":"2026-11-26T13:21:35Z"},{"id":795998666,"node_id":"RA_kwDOSX_Ir84vcfnK","name":"concord-aarch64-unknown-linux-gnu.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":9447260,"digest":"sha256:01bfcf3f95e2c3960d0fb2a29cb75e7869dd226fafb287d08e000682546b6c06","download_count":13,"created_at":"2026-11-26T13:21:35Z","updated_at":"2026-11-26T13:21:37Z"},{"id":795998669,"node_id":"RA_kwDOSX_Ir84vcfnN","name":"concord-aarch64-unknown-linux-gnu.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":108,"digest":"sha256:dcc729c299f9142978a85d5919cb53ed14490cd418d27fc30f762c97620ba219","download_count":3,"created_at":"2026-11-26T13:21:35Z","updated_at":"2026-11-26T13:21:35Z"},{"id":795998671,"node_id":"RA_kwDOSX_Ir84vcfnP","name":"concord-installer.ps1","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-powershell","state":"uploaded","size":21601,"digest":"sha256:8806c7cce0bf0c987e897851b80214c960dd1db29b0feed1a1e2559e6171b29f","download_count":11,"created_at":"2026-11-26T13:21:35Z","updated_at":"2026-11-26T13:21:35Z"},{"id":795998696,"node_id":"RA_kwDOSX_Ir84vcfno","name":"concord-installer.sh","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-shellscript","state":"uploaded","size":53959,"digest":"sha256:fd95c2201dc8f44fe3f0f46e5acccbba29661bf1fc0a82fff0bbcf179448e39e","download_count":32,"created_at":"2026-11-26T13:21:36Z","updated_at":"2026-11-26T13:21:36Z"},{"id":795998703,"node_id":"RA_kwDOSX_Ir84vcfnv","name":"concord-npm-package.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":52988,"digest":"sha256:395d518e52ffbec311ed18ce2786494d58f51f9cdd5300278fd1bd6859cfbd96","download_count":3,"created_at":"2026-11-26T13:21:36Z","updated_at":"2026-11-26T13:21:36Z"},{"id":795998709,"node_id":"RA_kwDOSX_Ir84vcfn1","name":"concord-x86_64-apple-darwin.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":8904364,"digest":"sha256:15f71c61702523ae7ed016b0dde47e55970515da4c8846b1e609b857b366f9c2","download_count":6,"created_at":"2026-11-26T13:21:36Z","updated_at":"2026-11-26T13:21:37Z"},{"id":795998746,"node_id":"RA_kwDOSX_Ir84vcfoa","name":"concord-x86_64-apple-darwin.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":102,"digest":"sha256:eef2df0f79fd225b4fa53f6cb3a9ff9bfe28fe9583d7bb64f64ede3357cb281a","download_count":3,"created_at":"2026-11-26T13:21:37Z","updated_at":"2026-11-26T13:21:37Z"},{"id":795998751,"node_id":"RA_kwDOSX_Ir84vcfof","name":"concord-x86_64-pc-windows-msvc.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":13708579,"digest":"sha256:77a079ab0de260d93d8d7f043ecbb6d952b6b72a74c071523c6205c9851a53ae","download_count":38,"created_at":"2026-11-26T13:21:37Z","updated_at":"2026-11-26T13:21:38Z"},{"id":795998753,"node_id":"RA_kwDOSX_Ir84vcfoh","name":"concord-x86_64-pc-windows-msvc.zip.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":102,"digest":"sha256:d7525f640b05e7eb8601790fab60a0f44e01e5510dea5bc4169fcc4ea08b68df","download_count":6,"created_at":"2026-11-26T13:21:37Z","updated_at":"2026-11-26T13:21:37Z"},{"id":795998769,"node_id":"RA_kwDOSX_Ir84vcfox","name":"concord-x86_64-unknown-linux-gnu.tar.xz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-xz","state":"uploaded","size":10808576,"digest":"sha256:a55758c94ce815f30bd0264fdec857d36a667f090c9b5e71b32689a9898aea2d","download_count":185,"created_at":"2026-11-26T13:21:37Z","updated_at":"2026-11-26T13:21:39Z"},{"id":795998795,"node_id":"RA_kwDOSX_Ir84vcfpL","name":"concord-x86_64-unknown-linux-gnu.tar.xz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":107,"digest":"sha256:459adc7ed17a67cc392e39f1c54da3a1f96a8500ad926e36ca2ad880e423a4bf","download_count":12,"created_at":"2026-11-26T13:21:38Z","updated_at":"2026-11-26T13:21:38Z"},{"id":795998814,"node_id":"RA_kwDOSX_Ir84vcfpe","name":"concord.rb","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-ruby","state":"uploaded","size":2475,"digest":"sha256:0094dfb300ce7a12bd36d0381524f42d0190b0157945930f21038a3d551566d8","download_count":3,"created_at":"2026-11-26T13:21:38Z","updated_at":"2026-11-26T13:21:38Z"},{"id":795998809,"node_id":"RA_kwDOSX_Ir84vcfpZ","name":"sha256.sum","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":691,"digest":"sha256:5f184881808e02bbf6b60c3b6a05fc3f79813ff9a2be62b34ee9f2e780950f45","download_count":5,"created_at":"2026-11-26T13:21:38Z","updated_at":"2026-11-26T13:21:38Z"},{"id":795998989,"node_id":"RA_kwDOSX_Ir84vcfsN","name":"source.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":3993622,"digest":"sha256:e48a9ea2fbb1cef88d75b660e4fbc43d2d55d4201bfe758ff45b9fca27e1f0b6","download_count":3,"created_at":"2026-11-26T13:21:38Z","updated_at":"2026-11-26T13:21:39Z"},{"id":795999000,"node_id":"RA_kwDOSX_Ir84vcfsY","name":"source.tar.gz.sha256","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":81,"digest":"sha256:d06db7a830dab909eb976625cb934566dc458fed491670e104beeb365310af7c","download_count":3,"created_at":"2026-11-26T13:21:38Z","updated_at":"2026-11-26T13:21:39Z"}],"body":"## Release Notes\n\n### Bug Fixes\n\n- _(tui)_ Ignore diacritics when searching names (#442) in [#442](https://github.com/chojs23/concord/pull/442) by @Staberman\n- Removed tenor command (#439) in [#439](https://github.com/chojs23/concord/pull/439) by @regarager\n- Changed extension of temporary message file from .txt to .md (#440) in [#440](https://github.com/chojs23/concord/pull/440) by @regarager\n\n### Features\n\n- Optionally use a terminal file manager to select attachments (#441) in [#441](https://github.com/chojs23/concord/pull/441) by @regarager\n\n### New Contributors\n\n- @Staberman made their first contribution in [#442](https://github.com/chojs23/concord/pull/442)\n\n","mentions_count":2}

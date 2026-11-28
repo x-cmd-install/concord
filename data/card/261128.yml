@@ -1,0 +1,121 @@
+about:
+  description: "A feature-rich TUI client for Discord"
+  license: NOASSERTION
+  homepage: https://github.com/chojs23/concord
+  head: f41a58a
+  archived: false
+  latestVersion: "v2.7.3"
+  latestRelease: "v2.7.3"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:37:03Z
+timeline:
+  created: 2026-05-08
+  lastCommit: 2026-11-26
+  lastVersion: 2026-11-26
+  lastRelease: 2026-11-26
+  lastPrerelease: 
+popularity:
+  star: 1696
+  watcher: 5
+  fork: 99
+  release: 95
+  contributor: 45
+  pullRequest: 218
+  issue: 209
+language:
+  Rust: 7705678
+  Nix: 4856
+totalBytes: 7710534
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 5
+    mergedPR: 18
+    openPR: 0
+    closedIssue: 10
+    openIssue: 2
+    commit: 28
+  last60d:
+    since: 2026-09-29
+    release: 8
+    mergedPR: 27
+    openPR: 1
+    closedIssue: 17
+    openIssue: 14
+    commit: 43
+  last90d:
+    since: 2026-08-30
+    release: 18
+    mergedPR: 46
+    openPR: 1
+    closedIssue: 28
+    openIssue: 22
+    commit: 90
+  last180d:
+    since: 2026-06-01
+    release: 67
+    mergedPR: 129
+    openPR: 6
+    closedIssue: 106
+    openIssue: 38
+    commit: 432
+  last360d:
+    since: 2025-12-03
+    release: 95
+    mergedPR: 201
+    openPR: 7
+    closedIssue: 160
+    openIssue: 49
+    commit: 992
+  last720d:
+    since: 2024-12-08
+    release: 95
+    mergedPR: 201
+    openPR: 7
+    closedIssue: 160
+    openIssue: 49
+    commit: 1027
+total:
+  release: 95
+  mergedPR: 201
+  openPR: 7
+  closedIssue: 160
+  openIssue: 49
+  commit: 1027
+---
+path: /home/runner/.x-repo/github.com/chojs23/concord
+collectedAt: 2026-11-28T08:37:09Z
+loc:
+  Rust:
+    code: 201783
+    comments: 1679
+    blanks: 17330
+    files: 401
+  Toml:
+    code: 408
+    comments: 21
+    blanks: 18
+    files: 3
+  Nix:
+    code: 127
+    comments: 20
+    blanks: 20
+    files: 2
+  Json:
+    code: 72
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2369
+    blanks: 1015
+    files: 6
+total:
+  code: 203010
+  comments: 5926
+  blanks: 18607
+  files: 413
+---
+
+---
